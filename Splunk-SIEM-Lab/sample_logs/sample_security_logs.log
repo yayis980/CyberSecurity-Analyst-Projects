@@ -1,0 +1,20 @@
+2026-07-02 08:00:12 INFO AUTH Succesful login for user yayis from 192.148.1.13
+2026-07-02 08:05:31 WARN AUTH Failed login for user admin from 203.0.113.45
+2026-07-02 08:05:55 WARN AUTH Failed login for user admin from 203.0.113.45
+2026-07-02 08:06:18 WARN AUTH Failed login for user admin from 203.0.113.45
+2026-07-02 08:06:18 INFO AUTH Succesful login for user admin from 192.168.1.15
+2026-07-02 08:06:18 INFO ACCOUNT Password changed for user yair 
+2026-07-02 08:06:18 INFO AUTH User yair logged out 
+2026-07-02 08:06:18 INFO SSH SSH login from 192.168.1.50 
+2026-07-02 08:06:18 INFO APP Google Chrome started
+2026-07-02 08:06:18 INFO APP Google Chrome closed
+2026-07-02 08:06:18 INFO APP Visual Studio Code started
+2026-07-02 08:06:18 INFO APP Visual Studio Code closed
+2026-07-02 08:06:18 WARN AUTH Failed login for user admin from 198.51.100.25
+2026-07-02 08:06:18 WARN AUTH Failed login for user admin from 198.51.100.25
+2026-07-02 09:15:09 INFO AUTH Successful login for user guest from 192.168.1.22
+2026-07-02 09:22:30 INFO SSH SSH session terminated
+2026-07-02 09:35:44 INFO SYSTEM Software update completed
+2026-07-02 09:50:11 INFO NETWORK VPN connection established
+2026-07-02 10:10:33 INFO NETWORK VPN connection disconnected
+2026-07-02 10:20:18 INFO SYSTEM System shutdown initiated
